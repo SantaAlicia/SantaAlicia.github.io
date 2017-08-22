@@ -4,9 +4,7 @@
     "details": [
       {
         "appID": "7GFRDWDZX3.com.extramile.chevron",
-        "paths": [
-          "/EX/", "NOT /EXX/"
-        ]
+        "paths": ["*"]
       }
     ]
   }
